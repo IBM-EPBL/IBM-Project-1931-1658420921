@@ -9,7 +9,7 @@
 - Logisha S
 - Yuvan Sankar Raja G
  
- [EMPATHY MAP LINK ](https://github.com/IBM-EPBL/IBM-Project-1931-1658420921/blob/main/Empathy%20Map/Empathy%20Map.pdf)
+ [EMPATHY MAP LINK ](https://github.com/IBM-EPBL/IBM-Project-1931-1658420921/blob/main/Ideation%20Phase/Empathy%20Map/Empathy%20Map.pdf)
  
  # EMPATHY MAP CANVAS:
 
